@@ -20,10 +20,21 @@
   
   
  ​os​.​system​(​"clear"​) 
- ​os​.​system​(​"figlet wh1sky"​) 
+ 
+
+os​.​system​(​"figlet arda.oficial"​) | lolcat
   
- ​print​(​"İnstagram:@wh1sky"​) 
   
+  
+ ​print​ (​''' 
+ ​__________________________________ 
+ ​ Kod Sahibi :@arda.officiall
+ ​ İnstagram :@arda.officiall
+ ​__________________________________ 
+ ​'''​) | lolcat
+ ​
+
+
  ​ip​ ​=​ ​input​(​"IP Giriniz : "​) 
  ​port​ ​=​ ​input​(​"Port       : "​) 
   
