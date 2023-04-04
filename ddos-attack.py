@@ -22,14 +22,14 @@
  ​os​.​system​(​"clear"​) 
  
 
-os​.​system​(​"figlet arda.oficial"​) | lolcat
+os​.​system​(​"figlet 1aarrddaaa"​) | lolcat
   
   
   
  ​print​ (​''' 
  ​__________________________________ 
- ​ Kod Sahibi :@arda.officiall
- ​ İnstagram :@arda.officiall
+ ​ Kod Sahibi :@1aarrddaaa
+ ​ İnstagram :@ceofficiiall
  ​__________________________________ 
  ​'''​) | lolcat
  ​
@@ -39,7 +39,7 @@ os​.​system​(​"figlet arda.oficial"​) | lolcat
  ​port​ ​=​ ​input​(​"Port       : "​) 
   
  ​os​.​system​(​"clear"​) 
- ​os​.​system​(​"figlet wh1sky"​) 
+ ​os​.​system​(​"figlet 1aarrddaaa"​) 
  ​print​ (​"[                    ] 0% "​) 
  ​time​.​sleep​(​5​) 
  ​print​ (​"[=====               ] 25%"​) 
